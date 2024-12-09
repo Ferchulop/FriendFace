@@ -6,7 +6,7 @@ FriendF☻ce es una app desarrollada en SwiftUI que permite gestionar y visualiz
 ### Retos como: 
 
 ### 1. **Manejo de Datos con SwiftData**
-- Uno de los mayores retos fue integrar **SwiftData** para gestionar y almacenar los datos de los usuarios y sus amigos. Aprendí a aprovechar las ventajas de esta nueva tecnología para persistir datos de manera eficiente, lo que me permitió optimizar el rendimiento de la aplicación. Configurar el entorno de **SwiftData** con @Model, @Query  y @Environment(\.modelContext) fue vital para que la app gestionara correctamente los datos locales.
+- Uno de los mayores challenges fue integrar **SwiftData** para gestionar y almacenar los datos de los usuarios y sus amigos. Aprendí a aprovechar las ventajas de esta nueva tecnología para persistir datos de manera eficiente, lo que me permitió optimizar el rendimiento de la aplicación. Configurar el entorno de **SwiftData** con @Model, @Query  y @Environment(\.modelContext) fue vital para que la app gestionara correctamente los datos locales.
 
 ### 2. **Interfaz de Usuario**
 - Crear una interfaz atractiva y funcional fue otro challenge importante. En particular, tuve que perfeccionar la interfaz para la correcta visualización de los usuarios y sus amigos de forma eficiente. Utilizando **SwiftUI**, implementé una lista de usuarios que muestra su nombre, estado de actividad y detalles adicionales.
